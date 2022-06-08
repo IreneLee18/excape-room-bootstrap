@@ -1,5 +1,5 @@
 # excape-room-bootstrap
-目標：
+## 目標：
 <br>
 ✓ 修正 X 軸
 <br>
@@ -11,6 +11,6 @@
 <br>
 
 
-新增：
+## 新增：
 pad RWD
 [page](https://irenelee18.github.io/excape-room-bootstrap/)
